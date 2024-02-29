@@ -14,7 +14,7 @@ MicroMessage is not like every other messenger on your phone. Because it runs on
 3. **Chat**: Send messages to your friend.
 
 ## Follow Us
-Stay connected with MicroDiscord updates by following us on [Download](#) and [Instagram](#).
+Get the newest Version of MicroMessage: [Download](https://drive.google.com/file/d/1wUcUyOy_kaRt7kbhmU1pR3u1YUCj6XIf/view?usp=sharing)
 
 We hope you enjoy your MicroMessage experience!
 
