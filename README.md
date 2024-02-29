@@ -19,6 +19,8 @@ Get the newest Version of MicroMessage: [Download](https://drive.usercontent.goo
 ## Warning
 Yes, if your UserID starts with a minus, you cant use MicroMessage for now. We are sorry.
 
+## Thank you
+
 We hope you enjoy your MicroMessage experience!
 
 Happy chatting!
