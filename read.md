@@ -1,3 +1,0 @@
-Micro Discord
-
-Welcome
