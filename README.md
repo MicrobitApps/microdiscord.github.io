@@ -13,8 +13,11 @@ MicroMessage is not like every other messenger on your phone. Because it runs on
 2. **Import**: Import MicroMessage onto your MicroBit.
 3. **Chat**: Send messages to your friend.
 
-## Follow Us
+## Download
 Get the newest Version of MicroMessage: [Download](https://drive.usercontent.google.com/download?id=1wUcUyOy_kaRt7kbhmU1pR3u1YUCj6XIf&export=download&authuser=0)
+
+## Warning
+Yes, if your UserID starts with a minus, you cant use MicroMessage for now. We are sorry.
 
 We hope you enjoy your MicroMessage experience!
 
