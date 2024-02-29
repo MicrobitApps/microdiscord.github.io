@@ -9,7 +9,7 @@ MicroMessage is not like every other messenger on your phone. Because it runs on
 - **Privacy**: Here at MicroMessage we made sure, that your messsages are safe!
 
 ## Get Started
-1. **Downlad**: Download the MicroMessage Application
+1. **Downlad**: [Download](https://github.com/MicrobitApps/micromessage.github.io/blob/main/README.md#download) the MicroMessage Application
 2. **Import**: Import MicroMessage onto your MicroBit.
 3. **Chat**: Send messages to your friend.
 
